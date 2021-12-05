@@ -1,9 +1,10 @@
-# Reproduction of the error
+# electron-cra-typescript-fs-not-defined
+Using `electron-store` in the rendered process yeilds an error as seen below.
 
-
-### Error
+### How to reproduce
+After you have installed the deps try running the app and you will see an error.
 ```
-TypeError: fs.existsSync is not a function
+npm start
 ```
 
 ### Stack trace

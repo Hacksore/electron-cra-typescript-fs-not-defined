@@ -1,5 +1,5 @@
 {
-  "name": "electron-ts-demo",
+  "name": "electron-cra-typescript-fs-not-defined",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
